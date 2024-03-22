@@ -1,0 +1,8 @@
+@import '@/shared/styles/_vars';
+
+.input {
+	padding: rem(10) rem(30);
+	border-radius: rem(8);
+	border: 1px soilid $black;
+	outline: none;
+}
